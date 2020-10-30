@@ -91,6 +91,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1200;
 				LastUpgradeCheck = 1200;
+				ORGANIZATIONNAME = TurtleTechies;
 				TargetAttributes = {
 					0C960425254794DA004C0B5B = {
 						CreatedOnToolsVersion = 12.0.1;
@@ -281,7 +282,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = zourz.MLAdjectives;
+				PRODUCT_BUNDLE_IDENTIFIER = TurtleTechies.MLAdjectives;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -302,7 +303,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = zourz.MLAdjectives;
+				PRODUCT_BUNDLE_IDENTIFIER = TurtleTechies.MLAdjectives;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};

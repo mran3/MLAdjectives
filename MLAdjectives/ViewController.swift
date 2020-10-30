@@ -9,6 +9,9 @@ import Cocoa
 
 class ViewController: NSViewController {
 
+    @IBOutlet var textView: NSTextView!
+    @IBOutlet weak var tableView: NSTableView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -20,7 +23,9 @@ class ViewController: NSViewController {
         // Update the view, if already loaded.
         }
     }
-
+    @IBAction func analyzeClicked(_ sender: NSButton) {
+    }
+    
 
 }
 
